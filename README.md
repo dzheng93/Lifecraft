@@ -1,5 +1,5 @@
 # LifeCraft
-YOUR LIFE IS IN YOUR HANDS
+Android application that promotes physical fitness through exercise games.
 
 ## Team
 
